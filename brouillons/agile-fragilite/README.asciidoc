@@ -10,6 +10,9 @@ Lors d'un audit sur la fiabilité d'un système, je commence généralement par 
 
 == Dans le cycle en V
 
+
+protester
+
 Dans un fonctionnement en V la boucle de feedback est simple : il y a les inputs métier et tech qui arrivent sur le·a chef·fe de projet, et le plan redescend sur les dev qui doivent executer.
 
 Quand le plan semble irrealistes, les personnes qui développent protestent et tentent de se faire entendre.
